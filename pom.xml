@@ -114,6 +114,13 @@
         </dependency>
     </dependencies>
 
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <url></url>
+        </repository>
+    </distributionManagement>
+
     <build>
         <plugins>
             <plugin>
